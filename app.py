@@ -3,8 +3,7 @@ import joblib
 import numpy as np
 from functions import *
 
-# Load the trained model
-model = joblib.load('random_forest_model.pkl')
+
 
 # Define the page configuration
 st.set_page_config(page_title="Credit Card Fraud Detection", layout="wide")
