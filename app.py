@@ -107,7 +107,7 @@ elif pages == "Fraud Detection":
         formatted_data = preprocess_input(amt, trans_hour, category, gender, day_of_week, age)
 
         # Get the prediction
-        prediction = model.predict(formatted_data)
+        # prediction = model.predict(formatted_data)
 
         # # Determine the text and color based on the prediction
         # if prediction == 1:  # Fraud
