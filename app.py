@@ -42,7 +42,7 @@ elif pages == "Student Info":
     st.markdown("""
     ### Project By:
     - **Name**: Ezeh Stephanie Chiamaka
-    - **Matriculation Number**: [Your Mat Number Here]
+    - **Matriculation Number**: Imsu/2020/4896
     
     ### Supervisor:
     - **Name**: Dr Amaefula
